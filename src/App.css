@@ -26,11 +26,12 @@ li {
   background-color: #f2f2f2;
   margin: 5px 0;
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
 
 button {
-  background-color: brown;
+  background-color: red;
   color: white;
   border: none;
   cursor: pointer;
